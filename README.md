@@ -1,4 +1,4 @@
-# getx_example
+# getx_riverpod_futurebuilder
 
 A new Flutter project.
 
